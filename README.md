@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @diegosottani
+- 👀 I’m interested in creating valuable apps that have some involvement with eSports and games in general.
+- 🌱 I’m currently learning React Native and design with Figma
+- 💞️ I’m looking to collaborate on mobile projects to gain experience
+- 📫 How to reach me: 🗨Linkedin: https://www.linkedin.com/in/diego-sottani-4436b6b7/ - 🗨Email: diegosottani@hotmail.com
